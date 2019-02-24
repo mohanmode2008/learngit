@@ -5,4 +5,5 @@ Git tracks changes.
 
 Creating a new branch is quick AND simple.
 
-Creating a new branch is quick AND simple dev0.
+
+Git is a free software ..
